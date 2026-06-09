@@ -37,6 +37,6 @@ jobs:
           path: ./public
   deploy:
     type: git
-    repo: https://github.com/<username>/<project>
+    repo: https://github.com/xuhongdi-2026/EvilBlogs
     # example, https://github.com/hexojs/hexojs.github.io
     branch: gh-pages
